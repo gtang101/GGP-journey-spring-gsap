@@ -68,10 +68,12 @@ img.align-right{
 
 #twoOne{
   left: 100%;
+  top: -16vw;
 }
 
 #twoTwo{
   left: -80%;
+  top: -10vw;
 }
 
 #twoThree{

@@ -22,22 +22,22 @@ function App() {
   
   gsap.registerPlugin(ScrollTrigger);
 
-  useEffect(() => {
-    const element = ref.current;
-    gsap.from(element.querySelector(".twoIcon"), {
-      scale: 0,
-      opacity: 0,
-      x: 0,
-      y: 0,
-      ease: "none",
-      scrollTrigger: {
-        trigger: element.querySelector(".pageThree"),
-        scrub: true,
-        start: "top center",
-        end: "top top"
-      }
-    });
-  }, []);
+  // useEffect(() => {
+  //   const element = ref.current;
+  //   gsap.from(element.querySelector(".twoIcon"), {
+  //     scale: 0,
+  //     opacity: 0,
+  //     x: 0,
+  //     y: 0,
+  //     ease: "none",
+  //     scrollTrigger: {
+  //       trigger: element.querySelector(".pageThree"),
+  //       scrub: true,
+  //       start: "top center",
+  //       end: "top top"
+  //     }
+  //   });
+  // }, []);
 
   // const onEnter = ({ currentTarget }) => {
   //   gsap.to(currentTarget, {scale: 1.3 });
@@ -62,7 +62,7 @@ function App() {
         ></ParallaxLayer>
 
         <ParallaxLayer
-          sticky={ {start: 0.2, end: 0.7} }
+          sticky={ {start: 0.2, end: 0.6} }
           className={"flex flex-center}"}>
           <div className="text-content-container align-right">
             <h2>Isolation and lack of independence</h2>
@@ -77,19 +77,11 @@ function App() {
         </ParallaxLayer>
 
         {/* Page 2 */}
-        <ParallaxLayer
-          offset={1}
-          speed={1}
-          factor={2.3}
-          style={{
-            backgroundColor: "#131f51"
-          }}
-        ></ParallaxLayer>
         
         <ParallaxLayer
           offset={1}
           speed={1}
-          factor={1.7}
+          factor={2}
           style={{
             backgroundImage: `url(${oneDBackground})`,
             backgroundSize: 'cover',
@@ -98,7 +90,7 @@ function App() {
 
 
         <ParallaxLayer
-          sticky={ {start: 1.6, end: 1.} }
+          sticky={ {start: 1.5, end: 1.6} }
           className={"flex flex-center}"}>
           <div className="text-content-container align-left">
             <h2>Political unrest and instability</h2>
@@ -161,7 +153,7 @@ function App() {
         </ParallaxLayer>
 
         <ParallaxLayer
-          offset={2.5}
+          offset={2.8}
           speed={0.3}
           style={{
             width: '20%',
