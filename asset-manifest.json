@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GGP-journey-spring-gsap/static/css/main.b6784f6b.css",
+    "main.js": "/GGP-journey-spring-gsap/static/js/main.b6323d2c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/GGP-journey-spring-gsap/static/js/787.28cb0dcd.chunk.js",
+    "static/media/1D_Gradient-background.png": "/GGP-journey-spring-gsap/static/media/1D_Gradient-background.bc7ca7befda41a6cc00c.png",
+    "static/media/2_Gradient-background.png": "/GGP-journey-spring-gsap/static/media/2_Gradient-background.faae9895181b6827df1e.png",
+    "static/media/1A_Gradient-background.png": "/GGP-journey-spring-gsap/static/media/1A_Gradient-background.d5ed283f2bd2229fe0dd.png",
+    "static/media/2_door.png": "/GGP-journey-spring-gsap/static/media/2_door.c9fd699567ad1cbbdee3.png",
+    "static/media/1D_Art.png": "/GGP-journey-spring-gsap/static/media/1D_Art.21bca4c20f97bdf5a08f.png",
+    "static/media/1A_Girl-and-reflection.png": "/GGP-journey-spring-gsap/static/media/1A_Girl-and-reflection.2fa1d5f49846ca76f198.png",
+    "static/media/2_Girl.png": "/GGP-journey-spring-gsap/static/media/2_Girl.01f22989269b74ac47ce.png",
+    "index.html": "/GGP-journey-spring-gsap/index.html",
+    "main.b6784f6b.css.map": "/GGP-journey-spring-gsap/static/css/main.b6784f6b.css.map",
+    "main.b6323d2c.js.map": "/GGP-journey-spring-gsap/static/js/main.b6323d2c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/GGP-journey-spring-gsap/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6784f6b.css",
+    "static/js/main.b6323d2c.js"
+  ]
+}
