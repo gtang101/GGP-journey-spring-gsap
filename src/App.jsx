@@ -49,7 +49,7 @@ function App() {
 
   return (
     <div>
-      <Parallax pages={3} ref={ref}>
+      <Parallax pages={4} ref={ref}>
       {/* Page 1 */}
 
         <ParallaxLayer
