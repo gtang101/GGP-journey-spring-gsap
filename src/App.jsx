@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react';
+import { useRef } from 'react';
 import oneABackground from './img/1A_Gradient-background.png';
 import oneDBackground from './img/1D_Gradient-background.png';
 import twoBackground from './img/2_Gradient-background.png';
@@ -48,13 +48,15 @@ function App() {
   // };
 
   return (
-    <div ref={ref}>
-      <Parallax pages={3}>
+    <div>
+      <Parallax pages={3} ref={ref}>
       {/* Page 1 */}
+
         <ParallaxLayer
           offset={0}
           speed={1}
           factor={2}
+          id={"page-1"}
           style={{
             backgroundImage: `url(${oneABackground})`,
             backgroundSize: 'cover',
@@ -82,6 +84,7 @@ function App() {
           offset={1}
           speed={1}
           factor={2}
+          id={"page-2"}
           style={{
             backgroundImage: `url(${oneDBackground})`,
             backgroundSize: 'cover',
@@ -109,6 +112,7 @@ function App() {
           offset={2}
           speed={1}
           factor={2}
+          id={"page-3"}
           style={{
             backgroundImage: `url(${twoBackground})`,
             backgroundSize: 'cover',
@@ -190,6 +194,16 @@ function App() {
           offset={2.2}
           speed={0.8}>
             <img className="align-left" src={twoStars} alt=""/>
+        </ParallaxLayer>
+
+        <ParallaxLayer
+        sticky={{start: 0.3, end: 5 }}
+        className={"flex slide-control"}>
+          <div className="control-group flex flex-column">
+            <div className="control-item" onClick={() => ref.current.scrollTo(0)}><p>1</p></div>
+            <div className="control-item" onClick={() => ref.current.scrollTo(1)}><p>2</p></div>
+            <div className="control-item" onClick={() => ref.current.scrollTo(2)}><p>3</p></div>
+          </div>
         </ParallaxLayer>
 
       </Parallax>
