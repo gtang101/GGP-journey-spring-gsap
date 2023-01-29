@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GGP-journey-spring-gsap/static/css/main.83295654.css",
-    "main.js": "/GGP-journey-spring-gsap/static/js/main.033d2a88.js",
+    "main.css": "/GGP-journey-spring-gsap/static/css/main.3893ff5f.css",
+    "main.js": "/GGP-journey-spring-gsap/static/js/main.cfb11457.js",
     "static/js/787.28cb0dcd.chunk.js": "/GGP-journey-spring-gsap/static/js/787.28cb0dcd.chunk.js",
     "static/media/1D_Gradient-background.png": "/GGP-journey-spring-gsap/static/media/1D_Gradient-background.bc7ca7befda41a6cc00c.png",
     "static/media/2_Gradient-background.png": "/GGP-journey-spring-gsap/static/media/2_Gradient-background.faae9895181b6827df1e.png",
@@ -11,12 +11,12 @@
     "static/media/1A_Girl-and-reflection.png": "/GGP-journey-spring-gsap/static/media/1A_Girl-and-reflection.2fa1d5f49846ca76f198.png",
     "static/media/2_Girl.png": "/GGP-journey-spring-gsap/static/media/2_Girl.01f22989269b74ac47ce.png",
     "index.html": "/GGP-journey-spring-gsap/index.html",
-    "main.83295654.css.map": "/GGP-journey-spring-gsap/static/css/main.83295654.css.map",
-    "main.033d2a88.js.map": "/GGP-journey-spring-gsap/static/js/main.033d2a88.js.map",
+    "main.3893ff5f.css.map": "/GGP-journey-spring-gsap/static/css/main.3893ff5f.css.map",
+    "main.cfb11457.js.map": "/GGP-journey-spring-gsap/static/js/main.cfb11457.js.map",
     "787.28cb0dcd.chunk.js.map": "/GGP-journey-spring-gsap/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83295654.css",
-    "static/js/main.033d2a88.js"
+    "static/css/main.3893ff5f.css",
+    "static/js/main.cfb11457.js"
   ]
 }
