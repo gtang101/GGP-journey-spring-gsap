@@ -1,9 +1,9 @@
 import { useRef } from 'react';
-import topImg from './img/top-img.png';
-import oneSvg from './img/1_svg.svg';
-import twoSvg from './img/2_svg.svg';
-import threeSvg from './img/3_svg.svg';
-import fourSvg from './img/4_svg.svg';
+// import topImg from './img/top-img.png';
+// import oneSvg from './img/1_svg.svg';
+// import twoSvg from './img/2_svg.svg';
+// import threeSvg from './img/3_svg.svg';
+// import fourSvg from './img/4_svg.svg';
 // import oneABackground from './img/1A_Gradient-background.png';
 // import oneDBackground from './img/1D_Gradient-background.png';
 // import twoBackground from './img/2_Gradient-background.png';
