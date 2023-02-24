@@ -36,6 +36,7 @@ code {
 h1{
   font-size: var(--h1-fs);
   margin-bottom: var(--size-3);
+  text-align: center;
 }
 
 h2{
@@ -116,11 +117,11 @@ p.quote{
 }
 
 img{
-  width: 50em;
+  width: 100vw;
 }
 
 #two-svg{
-  width: 30em;
+  width: 80vw;
 }
 
 /* Control group */
@@ -171,5 +172,13 @@ img{
   .placeholder{
     width: 50em;
     height: 20em;
+  }
+
+  img{
+    width: 50em;
+  }
+  
+  #two-svg{
+    width: 30em;
   }
 }
