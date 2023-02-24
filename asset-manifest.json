@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GGP-journey-spring-gsap/static/css/main.96966450.css",
+    "main.css": "/GGP-journey-spring-gsap/static/css/main.2efce9b4.css",
     "main.js": "/GGP-journey-spring-gsap/static/js/main.dd35d807.js",
     "static/js/787.28cb0dcd.chunk.js": "/GGP-journey-spring-gsap/static/js/787.28cb0dcd.chunk.js",
     "static/media/top-img.png": "/GGP-journey-spring-gsap/static/media/top-img.56d2412b5d0181f85cc4.png",
@@ -9,12 +9,12 @@
     "static/media/4_svg.svg": "/GGP-journey-spring-gsap/static/media/4_svg.69a677456edde46f0b7e5932068e5c8c.svg",
     "static/media/2_svg.svg": "/GGP-journey-spring-gsap/static/media/2_svg.d9bb9b88e96cafe07801d412c15c6c24.svg",
     "index.html": "/GGP-journey-spring-gsap/index.html",
-    "main.96966450.css.map": "/GGP-journey-spring-gsap/static/css/main.96966450.css.map",
+    "main.2efce9b4.css.map": "/GGP-journey-spring-gsap/static/css/main.2efce9b4.css.map",
     "main.dd35d807.js.map": "/GGP-journey-spring-gsap/static/js/main.dd35d807.js.map",
     "787.28cb0dcd.chunk.js.map": "/GGP-journey-spring-gsap/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96966450.css",
+    "static/css/main.2efce9b4.css",
     "static/js/main.dd35d807.js"
   ]
 }
