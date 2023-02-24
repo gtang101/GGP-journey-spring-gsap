@@ -97,7 +97,7 @@ function App() {
           className='center-grid'
           offset={1.2}
           speed={0.4}>
-          <img id='one-svg' src={oneSvg} alt=""/>
+          <img id='one-svg' src='https://drive.google.com/uc?id=1SKEoISOf__jkQ794Jnp78-XRySgU9toq' alt=""/>
         </ParallaxLayer>
 
         <ParallaxLayer
