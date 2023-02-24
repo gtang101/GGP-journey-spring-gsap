@@ -90,14 +90,14 @@ function App() {
           id='top-img'
           offset={0.2}
           speed={-0.3}>
-          <img src={topImg} alt=""/>
+          <img src='https://drive.google.com/uc?id=1Uh_t6A5aUjtzoXFu7OlcR69s3ho7zI5v' alt=""/>
         </ParallaxLayer>
-
+        
         <ParallaxLayer
           className='center-grid'
           offset={1.2}
           speed={0.4}>
-          <img id='one-svg' src={oneSvg} alt=""/>
+          <img id='one-svg' src='https://drive.google.com/uc?id=18p3i8sKEYV-U5Yhx6W23DFCOKn1OVWXK' alt=""/>
         </ParallaxLayer>
 
         <ParallaxLayer
@@ -123,7 +123,7 @@ function App() {
           className='center-grid'
           offset={2.1}
           speed={0.1}>
-          <img id='two-svg' src={twoSvg} alt=""/>
+          <img id='two-svg' src='https://drive.google.com/uc?id=12T7b1k45EIadoECIzsM2091tIdHp0Ewh' alt=""/>
         </ParallaxLayer>
 
          <ParallaxLayer
@@ -147,7 +147,7 @@ function App() {
           className='center-grid'
           offset={3.1}
           speed={-0.1}>
-          <img id='three-svg' src={threeSvg} alt=""/>
+          <img id='three-svg' src='https://drive.google.com/uc?id=1dwgZ_XfXBvEBbGBNrzpqXPXcHxJKmoax' alt=""/>
         </ParallaxLayer>
 
         <ParallaxLayer
@@ -166,7 +166,7 @@ function App() {
           className='center-grid'
           offset={4.1}
           speed={-0.1}>
-          <img id='four-svg' src={fourSvg} alt=""/>
+          <img id='four-svg' src='https://drive.google.com/uc?id=12vREaw9y_KFkB2Z-_O4oSR0P3DcgGkzU' alt=""/>
         </ParallaxLayer>
 
         <ParallaxLayer
